@@ -2,20 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a1df854-7a9b-4737-8429-59c320180d50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 1/Comments/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 1/Python Intro/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 1/Python Syntax/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programming Principles 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Programming Principles 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/Conditions/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/calculations/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/calculations/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/calculations/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/calculations/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/calculations/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/calculations/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/calculations/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/input and output/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/input and output/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/input and output/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/input and output/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/input and output/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/input and output/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/input and output/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python tutor/input and output/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Booleans/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Casting/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Data types/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Get Started/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python If....else/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Numbers/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Operators/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python String formatting/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Strings/concatstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Strings/escapcharac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Strings/formatstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Strings/modifstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Strings/pystrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Strings/slicestrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Strings/strmethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python User input/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Variables/Assign multiple values/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Variables/Global variables/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Variables/Output variables/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Variables/Python variables/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Python Variables/Variable names/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Python Arrays/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Python For loop/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2/Python While loop/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 1/Comments/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/Python Comments/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,18 +81,136 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KrSf5v8cCr0m9S2HfOdNHOMnuU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Games/Programming Principles 2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Games/Programming Principles 2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python.1">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Principles 2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python tutor/calculations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python tutor/calculations/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Principles 2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python tutor/Conditions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python tutor/Conditions/11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Principles 2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python tutor/Conditions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python tutor/Conditions/6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Principles 2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python tutor/Conditions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python tutor/Conditions/8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming Principles 2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python tutor/Conditions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python tutor/Conditions/9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.11" />
+        <item itemvalue="Python.9" />
+        <item itemvalue="Python.8" />
+        <item itemvalue="Python.6" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,5 +232,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python tutor/input and output/8.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
