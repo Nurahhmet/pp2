@@ -8,4 +8,3 @@ class with2meth:
 UserInput = with2meth()
 UserInput.getString()
 UserInput.printString()
-
