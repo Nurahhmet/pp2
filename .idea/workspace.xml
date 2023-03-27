@@ -2,35 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a1df854-7a9b-4737-8429-59c320180d50" name="Changes" comment="push">
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/c.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/d.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/e.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/g.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/h.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/i.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/j.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/k.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/l.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/m.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/n.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/o.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/p.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/q.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/r.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/s.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/t.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/u.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/v.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/w.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/x.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/y.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 6/lab6/z.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 7/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 7/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 7/3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 6/lab6/built-in.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 6/lab6/built-in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 6/lab6/dir and files.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 6/lab6/dir and files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +46,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Games/Programming Principles 2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1">
+  <component name="RunManager">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming Principles 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678210277257</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="push">
+      <created>1678714088835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678714088835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
