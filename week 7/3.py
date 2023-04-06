@@ -19,8 +19,8 @@ screen = pygame.display.set_mode(size)
 pygame.display.set_caption('Mickey clock')
 
 mickey = pygame.image.load('mickey.jpg')
-seconds = pygame.image.load('seconds (1).png')
-minutes = pygame.image.load('minutes (1).png')
+seconds = pygame.image.load('seconds.png')
+minutes = pygame.image.load('minutes.png')
 
 imagem = pygame.Surface(size, pygame.SRCALPHA)
 imagem.blit(minutes, (450, 290))
